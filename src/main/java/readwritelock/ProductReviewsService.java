@@ -1,4 +1,4 @@
-package main.java.read_write_lock;
+package main.java.readwritelock;
 
 import java.util.ArrayList;
 import java.util.Collections;
