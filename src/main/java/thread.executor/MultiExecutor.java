@@ -1,4 +1,4 @@
-package main.java.thread_executor;
+package main.java.thread.executor;
 
 import java.util.ArrayList;
 import java.util.List;
